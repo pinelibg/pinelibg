@@ -4,12 +4,12 @@ I'm Ryosuke Matsui, a researcher and software engineer based in Japan.
 
 ## 👨🏻‍💻 Technical Skills
 
-- Languages: C, C#, C++, TypeScript, Javascript, Go, Python3, bash
+- Languages: C, C#, C++, TypeScript, Javascript, Go, Python 3, bash
 - Frontend: React, Next.js
 - Backend: Node.js, gRPC
 - Databases: PostgreSQL, MySQL
 - Infrastructure: AWS, Docker
-- DevOps: Kubernetes, AWS CDK, Terraform
+- DevOps: GitHub Actions, AWS CDK, Terraform, Kubernetes
 
 ## 🎓 Education
 
@@ -20,10 +20,12 @@ Tokyo University of Agriculture and Technology, Japan,
 ## 📜 Certifications
 
 - AWS Certified Solutions Architect - Associate (SAA), Feb. 2024
+- AWS Certified Developer - Associate (SAA), Jul. 2024
 
 ## 🤝 Connect
 
-- Portfolio: [https://www.rpine.net/](https://www.rpine.net/)
+- Portfolio: [https://rpine.net/](https://rpine.net/)
+- Technical Blog: [https://blog.rpine.net/](https://blog.rpine.net/)
 
 ## 📚 Stats
 
